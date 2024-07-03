@@ -1,0 +1,359 @@
+timestamp,zone,line,direction,transportMode,latitude,longitude
+1720040870421,10,615,Varberg,bus,57.24774,12.131114
+1720040892030,17,22,Kippholmen"," Påstigning fram,bus,57.760601,11.832537
+1720040892030,17,281,Saltholmen via Styrsö Tången,ferry,57.619156,11.793506
+1720040892030,17,281,Vrångö,ferry,57.609609,11.799897
+1720040892030,17,1,Stenpiren,tram,57.651086,11.906365
+1720040892030,17,1,Tynnered,tram,57.654753,11.915058
+1720040892030,17,27,Eketrägatan"," Påstigning fram,bus,57.726658,11.868152
+1720040892030,17,32,Sörredsmotet"," Påstigning fram,bus,57.700149,11.860143
+1720040892030,17,32,Eketrägatan"," Påstigning fram,bus,57.70627,11.816851
+1720040892030,17,27,Volvo Torslanda"," Påstigning fram,bus,57.716383,11.909494
+1720040892030,17,25,Balltorp via Järntorget,bus,57.731908,11.896172
+1720040892030,17,25,Länsmansgården,bus,57.732941,11.915732
+1720040892030,17,50,Brunnsparken"," Påstigning fram,bus,57.692175,11.914537
+1720040892030,17,50,Frölunda Torg"," Påstigning fram,bus,57.652731,11.905413
+1720040892030,17,17,Tuve,bus,57.723763,11.945504
+1720040892030,17,SVART,Amhult resecentrum"," Påstigning fram,bus,57.727566,11.939922
+1720040892030,17,61,Heden"," Påstigning fram,bus,57.695555,11.94039
+1720040892030,17,9,Centralstationen via Valand,tram,57.698126,11.930942
+1720040892030,17,3,Marklandsgatan,tram,57.675428,11.933926
+1720040892030,17,11,Saltholmen,tram,57.686485,11.920254
+1720040892030,17,9,Kungssten,tram,57.698944,11.933567
+1720040892030,17,11,Bergsjön via Kungsportsplatsen,tram,57.675977,11.888872
+1720040892030,17,21,Eketrägatan via Lundbyleden,bus,57.714127,11.944767
+1720040892030,17,X1,Torslanda"," Påstigning fram,bus,57.709192,11.783285
+1720040892030,17,X2,Billdal"," Påstigning fram,bus,57.563926,11.945585
+1720040892030,17,X,Länsmansgården,tram,57.71472,11.906545
+1720040892030,17,X,Hjalmar Brantingsplatsen,tram,57.725175,11.893007
+1720040892030,17,X,Hjalmar Brantingsplatsen,tram,57.720644,11.935958
+1720040892030,17,16,Högsbohöjd,bus,57.700832,11.909485
+1720040892030,17,16,Högsbohöjd,bus,57.675321,11.919031
+1720040892030,17,16,Västra Eriksberg,bus,57.708338,11.928569
+1720040892030,17,733,Västra Hagen"," Påstigning fram,bus,57.456838,11.927238
+1720040892030,17,31,Hjalmar Brantingsplatsen"," Påstigning fram,bus,57.707736,11.934897
+1720040892030,17,37,Hjalmar Brantingsplatsen"," Påstigning fram,bus,57.792126,11.915094
+1720040892030,17,X2,Gerrebacka"," Påstigning fram,bus,57.567306,11.942376
+1720040892030,17,X3,Gråbo via Stenared"," Påstigning fram,bus,57.63273,11.931724
+1720040892030,17,3787,Göteborg,train/vasttagen,57.791668,11.929108
+1720040892030,17,190,Volvo Torslanda"," Påstigning fram,bus,57.697991,11.931122
+1720040892030,17,31,Eketrägatan"," Påstigning fram,bus,57.71944,11.90686
+1720040892030,17,35,Säve Depå"," Påstigning fram,bus,57.732825,11.93941
+1720040892030,17,Båt,Rörö,ferry,57.758309,11.617704
+1720040892030,17,X1,Partille centrum"," Påstigning fram,bus,57.731575,11.775617
+1720040892030,17,RÖD,Lilla Varholmen"," Påstigning fram,bus,57.709363,11.740128
+1720040892030,17,734,Älskogsbräcka"," Påstigning fram,bus,57.42071,11.94261
+1720040892030,17,185,Volvo Torslanda via Marklandsgatan"," Påstigning fram,bus,57.668525,11.935463
+1720040892030,17,90,Järntorget via Gråberget"," Påstigning fram,bus,57.692454,11.916739
+1720040892030,17,30,Frölunda Torg"," Påstigning fram,bus,57.651778,11.907111
+1720040892030,17,30,Eketrägatan"," Påstigning fram,bus,57.70476,11.901862
+1720040892030,17,7,Bergsjön,tram,57.681316,11.945711
+1720040892030,17,3,Kålltorp,tram,57.699232,11.939203
+1720040892030,17,99,Frölunda Torg via Polstjärnegatan"," Påstigning fram,bus,57.712338,11.943518
+1720040892030,17,99,Hjalmar Brantingsplatsen via Polstjärnegatan"," Påstigning fram,bus,57.696283,11.898167
+1720040892030,17,36,Hjalmar Brantingsplatsen"," Påstigning fram,bus,57.747989,11.880557
+1720040892030,17,145,Volvo Torslanda"," Påstigning fram,bus,57.73118,11.91895
+1720040892030,17,178,Arendal via Volvo Torslanda"," Påstigning fram,bus,57.793268,11.931625
+1720040892030,17,SVART,Vallhamra"," Påstigning fram,bus,57.738128,11.907588
+1720040892030,17,285,Stenpiren via Lindholmspiren,ferry,57.700463,11.922294
+1720040892030,17,82,Marklandsgatan"," Påstigning fram,bus,57.599416,11.941046
+1720040892030,17,84,Sisjön"," Påstigning fram,bus,57.659068,11.933549
+1720040892030,17,83,Frölunda Torg"," Påstigning fram,bus,57.649306,11.916289
+1720040892030,17,97,Fiskebäck via Påvelund"," Påstigning fram,bus,57.661342,11.892819
+1720040892030,17,97,Frölunda Torg via Påvelund"," Påstigning fram,bus,57.646681,11.868071
+1720040892030,17,17,Östra Sjukhuset,bus,57.757113,11.928479
+1720040892030,17,34,Hjuvik"," Påstigning fram,bus,57.714397,11.907831
+1720040892030,17,34,Hjuvik"," Påstigning fram,bus,57.710819,11.714194
+1720040892030,17,720,Kungsbacka"," Påstigning fram,bus,57.545723,11.94181
+1720040892030,17,2,Hönö färjeläge via Fotö"," Påstigning fram,bus,57.684004,11.660313
+1720040892030,17,82,Brottkärr"," Påstigning fram,bus,57.638833,11.943913
+1720040892030,17,95,Marklandsgatan"," Påstigning fram,bus,57.662322,11.934681
+1720040892030,17,93,Frölunda Torg"," Påstigning fram,bus,57.645171,11.917269
+1720040892030,17,94,Opaltorget"," Påstigning fram,bus,57.637539,11.880467
+1720040895350,18,1,Stenpiren,tram,57.704563,11.95746
+1720040895350,18,62,Skårs kyrka"," Påstigning fram,bus,57.71241,12.007233
+1720040895350,18,62,Skårs kyrka"," Påstigning fram,bus,57.71241,12.007233
+1720040895350,18,760,Mölndal resecentrum"," Påstigning fram,bus,57.634141,12.019656
+1720040895350,18,761,Lindome"," Påstigning fram,bus,57.60329,12.078077
+1720040895350,18,71,Eriksbo"," Påstigning fram,bus,57.778607,12.040502
+1720040895350,18,71,Angered centrum"," Påstigning fram,bus,57.769123,12.026848
+1720040895350,18,2,Mölnlycketerminalen"," Påstigning fram,bus,57.643894,12.114879
+1720040895350,18,731,Älskogsbräcka via Gottskär"," Påstigning fram,bus,57.412206,12.020142
+1720040895350,18,530,Aspen station"," Påstigning fram,bus,57.752781,12.260765
+1720040895350,18,6E,Hjalmar Brantingsplatsen"," Ersätter spårvagn,bus,57.720644,11.954197
+1720040895350,18,6E,Hjalmar Brantingsplatsen"," Ersätter spårvagn,bus,57.720644,11.954197
+1720040895350,18,6E,Hjalmar Brantingsplatsen"," Ersätter spårvagn,bus,57.720644,11.954197
+1720040895350,18,6E,Nordstan"," Ersätter spårvagn,bus,57.71321,11.970045
+1720040895350,18,6E,Nordstan"," Ersätter spårvagn,bus,57.71321,11.970045
+1720040895350,18,6E,Nordstan"," Ersätter spårvagn,bus,57.71321,11.970045
+1720040895350,18,25,Länsmansgården via Järntorget,bus,57.655787,12.011117
+1720040895350,18,25,Balltorp via Järntorget,bus,57.711871,11.968867
+1720040895350,18,25,Balltorp,bus,57.677262,11.971393
+1720040895350,18,25,Länsmansgården,bus,57.701254,11.950943
+1720040895350,18,757,Mölndal resecentrum"," Påstigning fram,bus,57.682251,11.964633
+1720040895350,18,50,Frölunda Torg"," Påstigning fram,bus,57.70405,11.956543
+1720040895350,18,SVART,Amhult resecentrum"," Påstigning fram,bus,57.722172,12.049375
+1720040895350,18,17,Tuve,bus,57.716716,12.005489
+1720040895350,18,763,Lindome"," Påstigning fram,bus,57.604432,12.136157
+1720040895350,18,60,Fredriksdal"," Påstigning fram,bus,57.709345,12.000195
+1720040895350,18,60,Fredriksdal"," Påstigning fram,bus,57.685703,11.983753
+1720040895350,18,63,Heden"," Påstigning fram,bus,57.686971,11.952093
+1720040895350,18,63,Heden"," Påstigning fram,bus,57.703718,11.975016
+1720040895350,18,63,Linnéplatsen"," Påstigning fram,bus,57.683752,11.964094
+1720040895350,18,61,Heden"," Påstigning fram,bus,57.690971,11.979088
+1720040895350,18,61,Masthugget"," Påstigning fram,bus,57.697021,11.987187
+1720040895350,18,SNU,Stenungsund"," Påstigning fram,bus,57.709659,11.971897
+1720040895350,18,2,Linnéplatsen,tram,57.673828,12.009148
+1720040895350,18,2,Linnéplatsen via Valand,tram,57.700859,11.974243
+1720040895350,18,9,Ullevi Norra,tram,57.707628,11.984985
+1720040895350,18,1,Centralstationen,tram,57.711817,11.990244
+1720040895350,18,4,Angered,tram,57.698396,11.982153
+1720040895350,18,4,Angered,tram,57.772773,12.024205
+1720040895350,18,5,Centralstationen,tram,57.700481,11.974863
+1720040895350,18,5,Östra Sjukhuset,tram,57.708491,12.023486
+1720040895350,18,6,Centralstationen via Sahlgrenska,tram,57.716257,12.004501
+1720040895350,18,6,Centralstationen via Valand,tram,57.688876,11.952264
+1720040895350,18,3,Marklandsgatan,tram,57.717552,12.024861
+1720040895350,18,3,Marklandsgatan,tram,57.698504,11.967986
+1720040895350,18,11,Saltholmen,tram,57.760323,12.041249
+1720040895350,18,11,Saltholmen,tram,57.705399,11.968706
+1720040895350,18,6,Kortedala via Sahlgrenska,tram,57.699421,11.964876
+1720040895350,18,6,Kortedala,tram,57.702935,11.9853
+1720040895350,18,6,Kortedala,tram,57.750452,12.031693
+1720040895350,18,7,Tynnered,tram,57.728339,12.0094
+1720040895350,18,7,Tynnered,tram,57.694054,11.97285
+1720040895350,18,2,Mölndal,tram,57.698522,11.986423
+1720040895350,18,9,Kungssten,tram,57.71721,11.996932
+1720040895350,18,10,Guldheden,tram,57.682746,11.974935
+1720040895350,18,11,Bergsjön via Kungsportsplatsen,tram,57.699529,11.962791
+1720040895350,18,11,Bergsjön,tram,57.73162,12.022326
+1720040895350,18,21,Eketrägatan via Lundbyleden,bus,57.748016,12.035253
+1720040895350,18,X4,Kungälv"," Påstigning fram,bus,57.667491,12.107023
+1720040895350,18,X4,Höga Hallar via Mölnlycke"," Påstigning fram,bus,57.726658,11.970827
+1720040895350,18,X2,Gerrebacka"," Påstigning fram,bus,57.69258,11.95257
+1720040895350,18,X4,Höga Hallar via Mölnlycke"," Påstigning fram,bus,57.66403,12.11443
+1720040895350,18,X1,Torslanda"," Påstigning fram,bus,57.734551,12.085323
+1720040895350,18,X4,Kungälv"," Påstigning fram,bus,57.696841,11.986235
+1720040895350,18,X4,Kungälv"," Påstigning fram,bus,57.674206,12.089817
+1720040895350,18,732,Frillesås"," Påstigning fram,bus,57.369328,12.119149
+1720040895350,18,531,Lerum station"," Påstigning fram,bus,57.793691,12.348994
+1720040895350,18,X2,Billdal"," Påstigning fram,bus,57.720806,11.954709
+1720040895350,18,X2,Billdal"," Påstigning fram,bus,57.699744,11.952031
+1720040895350,18,X2,Billdal"," Påstigning fram,bus,57.599802,11.952219
+1720040895350,18,X,Länsmansgården,tram,57.720536,11.954449
+1720040895350,18,16,Högsbohöjd,bus,57.695771,11.9716
+1720040895350,18,16,Västra Eriksberg,bus,57.694773,11.9724
+1720040895350,18,18,Backa via Nordstan,bus,57.684157,12.005588
+1720040895350,18,18,Backa,bus,57.718478,11.963564
+1720040895350,18,18,Backa,bus,57.745877,11.97756
+1720040895350,18,18,Kallebäck via Nordstan,bus,57.731503,11.975232
+1720040895350,18,18,Kallebäck,bus,57.70281,11.973164
+1720040895350,18,18,Kallebäck,bus,57.681712,12.009463
+1720040895350,18,611,Rävlanda"," Påstigning fram,bus,57.659284,12.485163
+1720040895350,18,X3,Särö"," Påstigning fram,bus,57.791084,12.114115
+1720040895350,18,X3,Gråbo"," Påstigning fram,bus,57.73304,12.001193
+1720040895350,18,X3,Kullavik"," Påstigning fram,bus,57.689263,11.952741
+1720040895350,18,X2,Gerrebacka"," Påstigning fram,bus,57.802149,11.981263
+1720040895350,18,X2,Gerrebacka"," Påstigning fram,bus,57.720608,11.955977
+1720040895350,18,X3,Gråbo"," Påstigning fram,bus,57.813602,12.182622
+1720040895350,18,X3,Särö"," Påstigning fram,bus,57.547988,11.956273
+1720040895350,18,31,Eketrägatan"," Påstigning fram,bus,57.717102,11.952786
+1720040895350,18,43,Skogome"," Påstigning fram,bus,57.725211,11.982324
+1720040895350,18,X1,Partille centrum"," Påstigning fram,bus,57.710576,11.970261
+1720040895350,18,42,Skogome"," Påstigning fram,bus,57.73002,11.958116
+1720040895350,18,RÖD,Landvetter centrum via Stenpiren"," Påstigning fram,bus,57.702028,11.951842
+1720040895350,18,RÖD,Önneröd"," Påstigning fram,bus,57.685433,12.215181
+1720040895350,18,RÖD,Göteborg"," Lilla Varholmen"," Påstigning fram,bus,57.686162,12.205374
+1720040895350,18,RÖD,Lilla Varholmen"," Påstigning fram,bus,57.701614,11.953451
+1720040895350,18,19,Backa,bus,57.756583,11.980508
+1720040895350,18,90,Frölunda Torg via Gråberget"," Påstigning fram,bus,57.700868,11.951275
+1720040895350,18,759,Västra Balltorp"," Påstigning fram,bus,57.629943,12.015836
+1720040895350,18,525,Gråbo"," Påstigning fram,bus,57.769698,12.268316
+1720040895350,18,300,Kinna"," Påstigning fram,bus,57.685613,12.286492
+1720040895350,18,6,Svingeln,tram,57.727925,12.007206
+1720040895350,18,8,Angered,tram,57.684301,11.963438
+1720040895350,18,8,Angered,tram,57.726352,12.004177
+1720040895350,18,8,Högsbotorp,tram,57.766202,12.020286
+1720040895350,18,8,Högsbotorp,tram,57.694854,11.988482
+1720040895350,18,7,Bergsjön,tram,57.707637,11.977066
+1720040895350,18,7,Bergsjön,tram,57.753347,12.068342
+1720040895350,18,3,Kålltorp,tram,57.710846,11.989246
+1720040895350,18,4,Mölndal,tram,57.707619,11.97685
+1720040895350,18,4,Mölndal,tram,57.658709,12.015189
+1720040895350,18,10,Centralstationen,tram,57.703367,11.970728
+1720040895350,18,21,Bergsjön,bus,57.709291,11.970908
+1720040895350,18,21,Bergsjön,bus,57.754192,12.042372
+1720040895350,18,19,Eriksberg via Polstjärnegatan,bus,57.749652,11.980706
+1720040895350,18,FLYG,Göteborg"," Nils Ericson Terminalen,bus,57.689811,12.000707
+1720040895350,18,760,Varvsvägen"," Påstigning fram,bus,57.57439,12.083201
+1720040895350,18,110,Erikstorp via Bollebygd station"," Påstigning fram,bus,57.668507,12.572691
+1720040895350,18,60,Redbergsplatsen"," Påstigning fram,bus,57.694297,11.979627
+1720040895350,18,60,Redbergsplatsen"," Påstigning fram,bus,57.710756,12.013795
+1720040895350,18,159,Volvo Torslanda"," Påstigning fram,bus,57.716599,11.950143
+1720040895350,18,513,Partille centrum via Sävedalen"," Påstigning fram,bus,57.711916,11.989372
+1720040895350,18,515,Partille centrum"," Påstigning fram,bus,57.735072,12.091408
+1720040895350,18,179,Volvo Torslanda"," Påstigning fram,bus,57.802033,11.982639
+1720040895350,18,3587,Göteborg,train/vasttagen,57.759873,12.255551
+1720040895350,18,3487,Göteborg,train/vasttagen,57.721112,12.002289
+1720040895350,18,3091,Kungsbacka,train/vasttagen,57.509362,12.08232
+1720040895350,18,3090,Göteborg,train/vasttagen,57.683132,12.004384
+1720040895350,18,3592,Alingsås,train/vasttagen,57.724752,12.018766
+1720040895350,18,20187,Halmstad,train/regionaltrain,57.357165,12.139348
+1720040895350,18,1122,Göteborg,train/regionaltrain,57.634905,12.033446
+1720040895350,18,SVART,Vallhamra"," Påstigning fram,bus,57.720545,12.070104
+1720040895350,18,753,Mölndal via Helenedal"," Påstigning fram,bus,57.704733,11.987268
+1720040895350,18,753,Heden via Chalmers"," Påstigning fram,bus,57.647265,11.994523
+1720040895350,18,753,Mölndal via Åby"," Påstigning fram,bus,57.683402,11.964121
+1720040895350,18,753,Heden via Helenedal"," Påstigning fram,bus,57.66323,12.026686
+1720040895350,18,611,Mölnlycketerminalen"," Påstigning fram,bus,57.686045,12.2095
+1720040895350,18,56,Gamlestads Torg"," Påstigning fram,bus,57.748034,12.068818
+1720040895350,18,765,Tulebo"," Påstigning fram,bus,57.610185,12.062157
+1720040895350,18,X4,Mölnlycke"," Påstigning fram,bus,57.696859,11.98699
+1720040895350,18,100,Göteborg"," Påstigning fram,bus,57.683141,12.255704
+1720040895350,18,732,Kungsbacka"," Påstigning fram,bus,57.473441,12.095283
+1720040895350,18,537,Lerum"," Påstigning fram,bus,57.809458,12.36122
+1720040895350,18,533,Floda"," Påstigning fram,bus,57.809035,12.400161
+1720040895350,18,512,Liseberg Station"," Påstigning fram,bus,57.675581,12.053896
+1720040895350,18,512,Partille centrum via Öjersjö"," Påstigning fram,bus,57.699591,12.132183
+1720040895350,18,110,Borås"," Påstigning fram,bus,57.667015,12.566129
+1720040895350,18,401,Kungälv"," Påstigning fram,bus,57.794437,12.047424
+1720040895350,18,401,Angered"," Påstigning fram,bus,57.80873,12.016223
+1720040895350,18,44,Hjalmar Brantingsplatsen"," Påstigning fram,bus,57.727359,11.964606
+1720040895350,18,44,Backatorp"," Påstigning fram,bus,57.759055,11.985174
+1720040895350,18,40,Angered"," Påstigning fram,bus,57.723763,11.984257
+1720040895350,18,611,Landvetter centrum"," Påstigning fram,bus,57.686099,12.206551
+1720040895350,18,100,Borås"," Påstigning fram,bus,57.676291,12.691267
+1720040895350,18,100,Borås"," Påstigning fram,bus,57.697137,11.984931
+1720040895350,18,17,Östra Sjukhuset,bus,57.712212,11.99001
+1720040895350,18,40,Svingeln"," Påstigning fram,bus,57.787991,11.990981
+1720040895350,18,519,Partille centrum via Lexby skola"," Påstigning fram,bus,57.747288,12.141856
+1720040895350,18,517,Furulund"," Påstigning fram,bus,57.733912,12.134404
+1720040895350,18,513,Heden"," Påstigning fram,bus,57.730317,12.054903
+1720040895350,18,510,Partille centrum"," Påstigning fram,bus,57.739881,12.097098
+1720040895350,18,514,Partille centrum via Vallhamra"," Påstigning fram,bus,57.72264,12.057159
+1720040895350,18,518,Jonsered via Stärtered"," Påstigning fram,bus,57.738964,12.131347
+1720040895350,18,142,Hisingen logistikpark"," Påstigning fram,bus,57.733247,11.973973
+1720040895350,18,43,Svingeln"," Påstigning fram,bus,57.755145,11.970351
+1720040895350,18,74,Angered centrum"," Påstigning fram,bus,57.750569,12.078581
+1720040895350,18,74,Partille centrum"," Påstigning fram,bus,57.775299,12.059676
+1720040895350,18,75,Lövgärdet"," Påstigning fram,bus,57.802725,12.053168
+1720040895350,18,75,Angered centrum"," Påstigning fram,bus,57.794751,12.048476
+1720040895350,18,73,Gårdsten"," Påstigning fram,bus,57.797853,12.033796
+1720040895350,18,73,Angered centrum"," Påstigning fram,bus,57.794643,12.048386
+1720040895350,18,751,Mölnlycke"," Påstigning fram,bus,57.645971,12.045653
+1720040895350,18,751,Frölunda via Mölndal resecentrum"," Påstigning fram,bus,57.657216,12.116506
+1720040895350,18,751,Frölunda Torg"," Påstigning fram,bus,57.649692,11.982234
+1720040895350,18,762,Inseros"," Påstigning fram,bus,57.574785,12.085098
+1720040895350,18,761,Mölndal resecentrum"," Påstigning fram,bus,57.574785,12.085098
+1720040895350,18,720,Kullaviks hamn"," Påstigning fram,bus,57.513452,11.950817
+1720040895350,18,20,Resecentrum"," Påstigning fram,bus,57.688858,12.808532
+1720040895350,18,76,Rannebergen"," Påstigning fram,bus,57.799219,12.060476
+1720040895350,18,510,Heden"," Påstigning fram,bus,57.703403,11.974333
+1720040895350,18,515,Gamlestads Torg"," Påstigning fram,bus,57.729166,12.004114
+1720040895350,18,514,Östra Sjukhuset via Vallhamra"," Påstigning fram,bus,57.72362,12.088037
+1720040895350,18,16,Högsbohöjd,bus,57.695771,11.9716
+1720040895350,18,18,Kallebäck,bus,57.70281,11.973164
+1720040895350,18,18,Kallebäck,bus,57.681712,12.009463
+1720040895350,18,732,Kungsbacka"," Påstigning fram,bus,57.473441,12.095283
+1720040895350,18,517,Furulund"," Påstigning fram,bus,57.733912,12.134404
+1720040895350,18,40,Angered"," Påstigning fram,bus,57.795686,12.048566
+1720040895350,18,43,Svingeln"," Påstigning fram,bus,57.755145,11.970351
+1720040898476,19,7,Norrmalm"," Påstigning fram,bus,57.72228,12.941231
+1720040898476,19,7,Hedvigsborg"," Påstigning fram,bus,57.70405,12.945887
+1720040898476,19,7,Hedvigsborg"," Påstigning fram,bus,57.69836,12.946831
+1720040898476,19,159,Dalsjöfors via Målsryd"," Påstigning fram,bus,57.701246,12.988505
+1720040898476,19,150,Fristad station"," Påstigning fram,bus,57.73847,12.937536
+1720040898476,19,8,Hulta ängar"," Påstigning fram,bus,57.716257,12.98881
+1720040898476,19,2,Trandared"," Påstigning fram,bus,57.708077,12.961205
+1720040898476,19,155,Svanehov"," Påstigning fram,bus,57.712347,12.923036
+1720040898476,19,351,Tranemo"," Påstigning fram,bus,57.496624,13.341089
+1720040898476,19,5,Brämhult via Resecentrum"," Påstigning fram,bus,57.718352,12.823445
+1720040898476,19,5,Brämhult"," Påstigning fram,bus,57.733661,13.013288
+1720040898476,19,200,Borås"," Påstigning fram,bus,57.819382,13.286389
+1720040898476,19,200,Ulricehamn"," Påstigning fram,bus,57.809071,13.189782
+1720040898476,19,5,Sjömarken via Resecentrum"," Påstigning fram,bus,57.723602,12.962005
+1720040898476,19,2,Tullen"," Påstigning fram,bus,57.725471,12.923153
+1720040898476,19,1,Sjöbo"," Påstigning fram,bus,57.749868,12.943163
+1720040898476,19,1,Sjöbo"," Påstigning fram,bus,57.731063,12.981098
+1720040898476,19,1,Hässleholmen via Sjukhuset"," Påstigning fram,bus,57.724797,12.939388
+1720040898476,19,351,Tranemo"," Påstigning fram,bus,57.496624,13.341089
+1720040898476,19,1,Hässleholmen via Sjukhuset"," Påstigning fram,bus,57.724797,12.939388
+1720040901600,20,250,Jönköping"," Påstigning fram,bus,57.772269,14.131573
+1720040917112,25,842,Lysekil"," Påstigning fram,bus,58.32213,11.631673
+1720040917112,25,302,Marstrand"," Påstigning fram,bus,57.862629,11.918609
+1720040917112,25,303,Kärna"," Påstigning fram,bus,57.862683,11.918564
+1720040917112,25,3790,Stenungsund,train/vasttagen,57.954678,11.845841
+1720040917112,25,841,Torp Terminalen"," Påstigning fram,bus,58.191212,11.938655
+1720040917112,25,361,Rönnäng,ferry,57.930902,11.582682
+1720040917112,25,SNU,Göteborg"," Påstigning fram,bus,58.031401,11.829328
+1720040917112,25,847,Lysekil via Fiskebäckskil brygga,ferry,58.249677,11.463683
+1720040917112,25,670,Kampenhof"," Påstigning fram,bus,58.350635,11.943329
+1720040917112,25,842,Torp Terminalen"," Påstigning fram,bus,58.302561,11.510175
+1720040917112,25,12,Hovhult"," Påstigning fram,bus,58.368856,11.918123
+1720040917112,25,12,Kampenhof"," Påstigning fram,bus,58.347309,11.934475
+1720040917112,25,822,Uddevalla via Ammenäs"," Påstigning fram,bus,58.230009,11.878472
+1720040917112,25,TEXP,Rönnäng"," Påstigning fram,bus,57.987363,11.563454
+1720040917112,25,821,Uddevalla"," Påstigning fram,bus,58.348936,11.931904
+1720040920325,26,22,Sandhem via Trollhättan resecentrum"," Påstigning fram,bus,58.283585,12.290888
+1720040920325,26,22,Strömslund via Trollhättan resecentrum"," Påstigning fram,bus,58.285221,12.300255
+1720040920325,26,21,Skoftebyn"," Påstigning fram,bus,58.289113,12.296632
+1720040920325,26,21,Halvorstorp"," Påstigning fram,bus,58.287702,12.298016
+1720040920325,26,411,Älvängen"," Påstigning fram,bus,57.958382,12.122835
+1720040920325,26,X4,Kungälv"," Påstigning fram,bus,57.849334,12.002343
+1720040920325,26,17388,Öxnered,train/vasttagen,57.909184,12.052512
+1720040920325,26,860,Trollhättan"," Påstigning fram,bus,58.335003,12.288506
+1720040920325,26,560,Sollebrunn"," Påstigning fram,bus,57.965645,12.444505
+1720040920325,26,62,Öxnered via Vänersborg resecentrum"," Påstigning fram,bus,58.355723,12.389598
+1720040920325,26,62,Öxnered"," Påstigning fram,bus,58.365279,12.280784
+1720040920325,26,62,Nordkroken"," Påstigning fram,bus,58.358923,12.384475
+1720040920325,26,420,Lödöse södra"," Påstigning fram,bus,58.130076,12.129253
+1720040920325,26,68,Vänersborg resecentrum"," Påstigning fram,bus,58.361944,12.348374
+1720040920325,26,68,Restad Gård"," Påstigning fram,bus,58.370771,12.33943
+1720040920325,26,65,Vänersborg resecentrum via Överby"," Påstigning fram,bus,58.313402,12.294142
+1720040920325,26,65,Trollhättan resecentrum via Överby"," Påstigning fram,bus,58.329277,12.297855
+1720040920325,26,61,Vänersborg resecentrum"," Påstigning fram,bus,58.379365,12.317163
+1720040920325,26,24,Lextorp via Trollhättan resecentrum"," Påstigning fram,bus,58.285715,12.294196
+1720040920325,26,24,Sylte"," Påstigning fram,bus,58.287261,12.297998
+1720040920325,26,61,NÄL"," Påstigning fram,bus,58.316494,12.27059
+1720040920325,26,62,Vänersborg resecentrum"," Extrabuss,bus,58.365324,12.281135
+1720040920325,26,525,Sjövik"," Påstigning fram,bus,57.904024,12.339007
+1720040920325,26,670,Vänersborg via Trollhättan"," Påstigning fram,bus,58.317681,12.268712
+1720040920325,26,3590,Alingsås,train/vasttagen,57.88085,12.465503
+1720040920325,26,64,Onsjö"," Påstigning fram,bus,58.351525,12.333596
+1720040920325,26,X4,Mölnlycke"," Påstigning fram,bus,57.86911,11.982423
+1720040920325,26,403,Nödinge"," Påstigning fram,bus,57.918802,12.063038
+1720040920325,26,402,Jennylund"," Påstigning fram,bus,57.864481,12.02283
+1720040920325,26,401,Kungälv"," Påstigning fram,bus,57.871852,11.968598
+1720040920325,26,550,Borås"," Påstigning fram,bus,57.872023,12.564142
+1720040920325,26,543,Alingsås"," Påstigning fram,bus,58.033541,12.810006
+1720040920325,26,434,Älvängen"," Påstigning fram,bus,57.980415,12.200358
+1720040920325,26,39,Klareberg,taxi,57.857586,11.998145
+1720040920325,26,414,Kollanda,taxi,57.945743,12.212511
+1720040920325,26,26,Trollhättan resecentrum"," Påstigning fram,bus,58.28887,12.296254
+1720040920325,26,640,Grästorp,taxi,58.333223,12.676813
+1720040923398,27,200,Lidköping"," Påstigning fram,bus,58.388579,13.574817
+1720040923398,27,3491,Göteborg,train/vasttagen,58.117212,13.218161
+1720040923398,27,3488,Skövde,train/vasttagen,58.236158,13.655891
+1720040923398,27,3366,Lidköping,train/vasttagen,58.16926,12.998699
+1720040923398,27,317,Kinnarp"," Påstigning fram,bus,58.128862,13.556165
+1720040926485,28,400,Karlsborg"," Påstigning fram,bus,58.393514,13.86952
+1720040926485,28,402,Hjo"," Påstigning fram,bus,58.341583,14.188924
+1720040926485,28,4,Hasslum"," Påstigning fram,bus,58.391392,13.847388
+1720040926485,28,10,Ryd"," Påstigning fram,bus,58.339003,13.819881
+1720040926485,28,10,Skultorp"," Påstigning fram,bus,58.390628,13.852027
+1720040926485,28,2,Sjukhuset"," Påstigning fram,bus,58.391572,13.841419
+1720040938802,32,899,Strömstad,ferry,58.905962,11.049073
+1720040941874,33,860,Kungshamn"," Påstigning fram,bus,58.461553,11.688961
+1720040941874,33,860,Trollhättan via Uddevalla"," Påstigning fram,bus,58.46932,11.671567
+1720040941874,33,871,Strömstad"," Påstigning fram,bus,58.475603,11.639817
+1720040944961,34,730,Bengtsfors"," Påstigning fram,bus,58.743536,12.120713
+1720040944961,34,700,Ed"," Påstigning fram,bus,58.757802,12.250706
+1720040944961,34,710,Vänersborg"," Påstigning fram,bus,58.504629,12.283921
+1720040948043,35,106,Lidköping"," Påstigning fram,bus,58.489977,13.184569
+1720040951118,36,613,Skövde"," Påstigning fram,bus,58.477878,13.714995
+1720040951118,36,505,Töreboda"," Påstigning fram,bus,58.696648,14.118161
+1720040951118,36,500,Skövde"," Påstigning fram,bus,58.703651,13.811476
+1720040951118,36,4,Trädgårdsstaden"," Påstigning fram,bus,58.414378,13.891435
+1720040951118,36,10,Sjukhuset"," Påstigning fram,bus,58.420922,13.876972
+1720040951118,36,6,Resecentrum"," Påstigning fram,bus,58.425497,13.873304
+1720040951118,36,400,Tibro"," Påstigning fram,bus,58.500737,14.442609
