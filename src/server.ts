@@ -10,8 +10,6 @@ const inputFilePath = process.env.INPUT_PATH ?? './data.csv'
 const port = process.env.PORT ? parseInt(process.env.PORT) : 3000
 
 // Fetch data
-const positions = getPositions()
-
 function getPositions() {
     const data = fs.readFileSync(inputFilePath, 'utf-8')
     const lines = data.split('\n').slice(1)
