@@ -17,6 +17,35 @@
 
 <body>
     <div id="map"></div>
+    <div class="controls">
+        <h2>Controls</h2>
+
+        <span>
+            <label for="maxPositionsPerZone">Max positions per layer</label>
+            <input type="number" name="maxPositionsPerZone" id="maxPositionsPerZone" value="200"
+                   onchange="refreshOptimizedZones()">
+        </span>
+
+        <div class="layerToggles">
+            <h3>Layers</h3>
+            <span>
+                <input type="checkbox" checked name="positionsToggle" id="positionsToggle">
+                <label for="positionsToggle">Positions</label>
+            </span>
+            <span>
+                <input type="checkbox" checked name="positionBoundsToggle" id="positionBoundsToggle">
+                <label for="positionBoundsToggle">Position bounds</label>
+            </span>
+            <span>
+                <input type="checkbox" checked name="zonesToggle" id="zonesToggle">
+                <label for="zonesToggle">Zones</label>
+            </span>
+            <span>
+                <input type="checkbox" checked name="optimizedZonesToggle" id="optimizedZonesToggle">
+                <label for="optimizedZonesToggle">Optimized zones</label>
+            </span>
+        </div>
+    </div>
     <script src="/map.js"></script>
 </body>
 

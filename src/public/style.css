@@ -3,6 +3,7 @@ body {
     height: 100vh;
     overflow: hidden;
     margin: 0;
+    font-family: sans-serif;
 }
 
 #map {
@@ -12,4 +13,30 @@ body {
 
 .positionContext > span {
     display: block;
+}
+
+.controls {
+    width: fit-content;
+    height: fit-content;
+
+    position: fixed;
+    top: 1em;
+    right: 1em;
+    z-index: 500;
+
+    display: flex;
+    gap: 0.25em;
+    flex-flow: column nowrap;
+    padding: 0.5em;
+    border-radius: 0.5em;
+    background-color: #fff;
+}
+
+.layerToggles > span {
+    display: block;
+    width: fit-content;
+}
+
+input[type='number'] {
+    width: 4em;
 }

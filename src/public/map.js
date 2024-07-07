@@ -1,15 +1,24 @@
+var map
+
+var zonesLayer
+var optimizedZonesLayer
+var positionBoundsLayer
+var positionsLayer
+
 window.addEventListener('load', () => {
-    var map = L.map('map').setView([57.7089, 11.9746], 10)
+    map = L.map('map').setView([57.7089, 11.9746], 10)
 
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 19,
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
     }).addTo(map)
 
-    const zoneLayer = L.layerGroup().addTo(map)
-    const optimizedZoneLayer = L.layerGroup().addTo(map)
-    const positionBoundsLayer = L.layerGroup().addTo(map)
-    const markerLayer = L.layerGroup().addTo(map)
+    zonesLayer = L.layerGroup().addTo(map)
+    optimizedZonesLayer = L.layerGroup().addTo(map)
+    positionBoundsLayer = L.layerGroup().addTo(map)
+    positionsLayer = L.layerGroup().addTo(map)
+
+    registerLayerToggles()
 
     // Show positions
     fetch('/positions')
@@ -48,7 +57,7 @@ window.addEventListener('load', () => {
                             `<span><b>Transport mode</b> ${transportMode}</span>` +
                             '</div>'
                     )
-                    .addTo(markerLayer)
+                    .addTo(positionsLayer)
             })
 
             return positionBounds
@@ -103,11 +112,55 @@ window.addEventListener('load', () => {
                 opacity: 0.3,
                 fill: false,
             }
-        ).addTo(zoneLayer)
+        ).addTo(zonesLayer)
     })
 
-    // Show optimized zones
-    fetch('/zones')
+    refreshOptimizedZones()
+})
+
+function registerLayerToggles() {
+    const positionsToggle = document.getElementById('positionsToggle')
+    positionsToggle.addEventListener('change', () => {
+        if (positionsToggle.checked == true) {
+            positionsLayer.addTo(map)
+        } else {
+            positionsLayer.remove()
+        }
+    })
+    const positionBoundsToggle = document.getElementById('positionBoundsToggle')
+    positionBoundsToggle.addEventListener('change', () => {
+        if (positionBoundsToggle.checked) {
+            positionBoundsLayer.addTo(map)
+        } else {
+            positionBoundsLayer.remove()
+        }
+    })
+    const zonesToggle = document.getElementById('zonesToggle')
+    zonesToggle.addEventListener('change', () => {
+        if (zonesToggle.checked) {
+            zonesLayer.addTo(map)
+        } else {
+            zonesLayer.remove()
+        }
+    })
+    const optimizedZonesToggle = document.getElementById('optimizedZonesToggle')
+    optimizedZonesToggle.addEventListener('change', () => {
+        if (optimizedZonesToggle.checked) {
+            optimizedZonesLayer.addTo(map)
+        } else {
+            optimizedZonesLayer.remove()
+        }
+    })
+}
+
+function refreshOptimizedZones() {
+    // Clear layer
+    optimizedZonesLayer.eachLayer(layer => {
+        layer.remove()
+    })
+    // Get zones
+    const maxPositionsPerZone = document.getElementById('maxPositionsPerZone').value
+    fetch(`/zones?maxPositionsPerZone=${maxPositionsPerZone}`)
         .then(res => res.json())
         .then(zones => {
             zones.forEach((zone, index) => {
@@ -124,7 +177,7 @@ window.addEventListener('load', () => {
                     }
                 )
                     .bindPopup(`Optimized zone ${index}`)
-                    .addTo(optimizedZoneLayer)
+                    .addTo(optimizedZonesLayer)
             })
         })
-})
+}
