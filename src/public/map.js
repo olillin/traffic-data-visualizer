@@ -6,9 +6,10 @@ window.addEventListener('load', () => {
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
     }).addTo(map)
 
-    const markerLayer = L.layerGroup().addTo(map)
     const zoneLayer = L.layerGroup().addTo(map)
+    const optimizedZoneLayer = L.layerGroup().addTo(map)
     const positionBoundsLayer = L.layerGroup().addTo(map)
+    const markerLayer = L.layerGroup().addTo(map)
 
     // Show positions
     fetch('/positions')
@@ -17,10 +18,7 @@ window.addEventListener('load', () => {
             const positionBounds = [Infinity, Infinity, -Infinity, -Infinity]
 
             positions.forEach(position => {
-                let [timestamp, zone, line, direction, transportMode, latitude, longitude] = position.map(value => value.replace(/","/g, ','))
-
-                latitude = parseFloat(latitude)
-                longitude = parseFloat(longitude)
+                const { timestamp, zoneId, line, direction, transportMode, latitude, longitude } = position
 
                 // Update positionBounds
                 if (latitude < positionBounds[0]) {
@@ -44,7 +42,7 @@ window.addEventListener('load', () => {
                     .bindPopup(
                         '<div class="positionContext">' + //
                             `<span><b>Recorded at</b> ${new Date(parseInt(timestamp)).toISOString()}</span>` +
-                            `<span><b>Zone</b> ${zone}</span>` +
+                            `<span><b>Zone</b> ${zoneId}</span>` +
                             `<span><b>Line</b> ${line}</span>` +
                             `<span><b>Direction</b> ${direction}</span>` +
                             `<span><b>Transport mode</b> ${transportMode}</span>` +
@@ -107,4 +105,26 @@ window.addEventListener('load', () => {
             }
         ).addTo(zoneLayer)
     })
+
+    // Show optimized zones
+    fetch('/zones')
+        .then(res => res.json())
+        .then(zones => {
+            zones.forEach((zone, index) => {
+                L.rectangle(
+                    [
+                        [zone.lowerLeftLat, zone.lowerLeftLong],
+                        [zone.upperRightLat, zone.upperRightLong],
+                    ],
+                    {
+                        fillColor: index % 2 === 0 ? '#f3b' : '#a3b',
+                        opacity: 0.5,
+                        stroke: false,
+                        fill: true,
+                    }
+                )
+                    .bindPopup(`Optimized zone ${index}`)
+                    .addTo(optimizedZoneLayer)
+            })
+        })
 })
